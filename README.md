@@ -7,8 +7,9 @@ Data Analyst | Full Stack Enthusiast | Aspiring AI Engineer
 Hey there! I'm **Rithika**, a Final-year Computer Science student who enjoys turning ☕ into code and problems into products.  
 
 - 🧠 Into: Machine Learning | Full Stack Development |   
-- 🔍 Currently: Looking for exciting job roles, internships & collab opportunities  
-- 💬 Fluent in: Python, JavaScript, HTML/CSS, C++
+- 🔍 Currently: Looking for exciting job roles, internships & collab opportunities
+- 🛠️ Beginner in: ASP.NET MVC Framework
+- 💬 Fluent in: Python, JavaScript, HTML/CSS, C++, C#
 - 🌎 Pro in: SQL
 - 🚀 Hobbies include: Vibing with code, building projects at 2AM, and debugging my life  
 
