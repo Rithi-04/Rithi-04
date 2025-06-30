@@ -2,6 +2,18 @@
 
 Data Analyst | Full Stack Enthusiast | Aspiring AI Engineer
 
+## 👩‍💻 About Me
+
+Hey there! I'm **Rithika**, a Final-year Computer Science student who enjoys turning ☕ into code and problems into products.  
+
+- 🧠 Into: Machine Learning | Full Stack Development |   
+- 🔍 Currently: Looking for exciting job roles, internships & collab opportunities  
+- 💬 Fluent in: Python, JavaScript, HTML/CSS, C++
+- 🌎 Pro in: SQL
+- 🚀 Hobbies include: Vibing with code, building projects at 2AM, and debugging my life  
+
+
+
 ---
 
 ## 🛠️ Skills Summary
@@ -44,7 +56,8 @@ Data Analyst | Full Stack Enthusiast | Aspiring AI Engineer
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s connect and build something amazing.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithika-roopakumaran-235956212)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rrithika_201/)  
