@@ -11,7 +11,7 @@ Hey there! I'm **Rithika**, a Final-year Computer Science student who enjoys tur
 - 🛠️ Beginner in: ASP.NET MVC Framework
 - 💬 Fluent in: Python, JavaScript, HTML/CSS, C++, C#
 - 🌎 Pro in: SQL
-- 🚀 Hobbies include: Vibing with code, building projects at 2AM, and debugging my life  
+- 🚀 Hobbies include: Vibe coding and debugging my life  
 
 
 
