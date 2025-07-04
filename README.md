@@ -6,10 +6,9 @@ Data Analyst | Full Stack Enthusiast | Aspiring AI Engineer
 
 Hey there! I'm **Rithika**, a Final-year Computer Science student who enjoys turning ☕ into code and problems into products.  
 
-- 🧠 Into: Machine Learning | Full Stack Development |   
-- 🔍 Currently: Looking for exciting job roles, internships & collab opportunities
+- 🧠 Into: Machine Learning | Full Stack Development | Competitive Coding
 - 🛠️ Beginner in: ASP.NET MVC Framework
-- 💬 Fluent in: Python, JavaScript, HTML/CSS, C++, C#
+- 💬 Fluent in: Python, JavaScript, HTML/CSS, C++, C#, Java
 - 🌎 Pro in: SQL
 - 🚀 Hobbies include: Vibe coding and debugging my life  
 
@@ -52,8 +51,8 @@ Hey there! I'm **Rithika**, a Final-year Computer Science student who enjoys tur
 
 ## 🏆 Achievements
 
-- 🥇 Top 5 Finalist in AI Hackathon organized by **Sastra University** (among 350 teams)  
-- 🏅 Top 5 Finalist in **Smart India Hackathon (SIH) 2024** (among 140 teams)
+- 🥇 Top 5 Finalist in AI Hackathon organized by **Sastra University**.
+- 🏅 Top 5 Finalist in **Smart India Hackathon (SIH) 2024**.
 
 ---
 
